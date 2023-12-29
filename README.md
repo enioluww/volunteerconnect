@@ -1,4 +1,4 @@
-# Volunteerconnect Group  Project
+# CMPT-370 Fall 2023 Group 19 Project
 
 ## Description
 
