@@ -1,4 +1,4 @@
-# volunteer connect Group Project
+# volunteer connect 
 
 ## Description
 
