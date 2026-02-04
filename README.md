@@ -35,11 +35,3 @@ While Docker is the preferred method of installation, you can run the project lo
     1. Build the client: `npm build`
     1. Run the client: `npm preview`
 
-## Authors
-
--   Nisarg Chaudhary (ujc862@usask.ca)​
--   Glenn Tanjoh Jong (jot567@usask.ca)​
--   Feranmi Aluwasikun (csb904@usask.ca)​
--   Enioluwa Israel Akinwande (iea995@usask.ca)​
--   Zander Rommelaere (gbd016@usask.ca)​
--   Dhruv Chugh (qme017@usask.ca)​
